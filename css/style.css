@@ -90,7 +90,7 @@ header #btn-app svg {
 /* == Main */
 
 main {
-    margin-top: 150px !important;
+    margin-top: 110px !important;
     display: flex;
     flex-direction: column;
     align-items: center;
