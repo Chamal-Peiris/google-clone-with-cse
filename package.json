@@ -14,6 +14,8 @@
     "bugs": {
         "url": "https://github.com/Chamal-Peiris/google-clone-with-cse.git/issues"
     },
-    "homepage": "https://github.com/Chamal-Peiris/google-clone-with-cse.git#readme"
-
+    "homepage": "https://github.com/Chamal-Peiris/google-clone-with-cse.git#readme",
+    "dependencies": {
+        "reset-css": "^5.0.1"
+    }
 }
