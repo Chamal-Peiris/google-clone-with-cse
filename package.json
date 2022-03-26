@@ -1,0 +1,19 @@
+{
+    "name": "google-clone",
+    "version": "1.0.0",
+    "description": "Google Clone by Chamal Peiris",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chamal-Peiris/google-clone-with-cse.git"
+    },
+    "keywords": [
+        "Google Clone"
+    ],
+    "author": "Chamal Peiris <chamal.peiris3g@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Chamal-Peiris/google-clone-with-cse.git/issues"
+    },
+    "homepage": "https://github.com/Chamal-Peiris/google-clone-with-cse.git#readme"
+
+}
